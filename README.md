@@ -1,8 +1,7 @@
 # Face Attendance App
 - First of all, Thanks to FaceNet Model.
-- Theres lot of inconsitency variable at this app, this app was created back in 2019 for thesis purposes. (Learn by doing, pull stack devs -> Pull everything at internet and put at this app :D)
-
-
+- Theres lot of inconsistency variable at this app, this app was created back in 2019 for thesis purposes. (Learn by doing, pull stack devs -> Pull everything at internet and put at this app :D)
+- Also thanks for PyImageSearch and Jeff Heaton, learn alot from both of them :).
 
 ## For Windows User Installation
 - [Download Miniconda](https://repo.anaconda.com/miniconda/Miniconda3-py39_4.9.2-Windows-x86_64.exe)
