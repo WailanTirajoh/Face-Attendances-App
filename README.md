@@ -1,6 +1,7 @@
 # Face Attendance App
-- This app is made with indonesian language
-- Thanks to FaceNet
+- First of all, Thanks to FaceNet Model.
+- Theres lot of inconsitency variable at this app, this app was created back in 2019 for thesis purposes. (Learn by doing, pull stack devs -> Pull everything at internet and put at this app :D)
+
 
 
 ## For Windows User Installation
