@@ -1,4 +1,4 @@
-sklearn==0.21.3
+scikit-learn==0.21.3
 pandas==0.25.2
 matplotlib==3.1.1
 pillow==6.2.1
@@ -10,4 +10,7 @@ keras==2.2.4
 opencv-contrib-python==4.1.1.26
 facenet
 XlsxWriter==1.2.2
+imutils==0.5.3
+scipy==1.2.2
+numpy==1.16.5
 https://files.pythonhosted.org/packages/da/06/bd3e241c4eb0a662914b3b4875fc52dd176a9db0d4a2c915ac2ad8800e9e/dlib-19.7.0-cp36-cp36m-win_amd64.whl#sha256=d71c78dce0f7614e05b92518cf4ad654af9e8bfc9e15dea6af3c4dbb306bcd09
