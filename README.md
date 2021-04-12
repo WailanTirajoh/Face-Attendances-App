@@ -11,8 +11,9 @@
         - Y
         - Y
     - activate FaceAttendances
-    - pip install -r requirements.txt
-    - Python main.py
+        - CD to face attendance app:
+            - pip install -r requirements.txt
+            - Python main.py
 ## How to use?
 - ### Create User
     - Creator
