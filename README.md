@@ -1,4 +1,4 @@
-# face-attendance-app
+# Face Attendance App
 - This app is made with indonesian language
 - Thanks to FaceNet
 
